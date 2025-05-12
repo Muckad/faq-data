@@ -1,0 +1,51 @@
+[
+  {
+    "category": "Rauchwarnmelder",
+    "keywords": ["rauchwarnmelder", "rauchmelder", "abstand", "installation", "lampe"],
+    "questions": [
+      "Wie weit muss ein Rauchwarnmelder von Lampen, Wänden etc entfernt sein?",
+      "Abstand Rauchwarnmelder zu Lampen",
+      "Wie installiere ich einen Rauchwarnmelder richtig?",
+      "Welcher Abstand ist zu Lampen einzuhalten?",
+      "Wie weit weg von der Wand muss der Rauchmelder?"
+    ],
+    "answer": "Er muss mindestens 50cm Außenkante von Gegenständen etc. entfernt sein.",
+    "videoAsset": ""
+  },
+  {
+    "category": "Zugang",
+    "keywords": ["zutritt", "zugang", "verweigert", "kein zugang"],
+    "questions": [
+      "Was mache ich wenn jemand den Zutritt verweigert?",
+      "Was tun bei Zugang verweigert?",
+      "Kein Zutritt möglich, was jetzt?",
+      "Wie gehe ich vor wenn kein Zugang?",
+      "Person verweigert Zugang"
+    ],
+    "answer": "Dann setze bitte den 'NZG' Zugang verweigert.",
+    "videoAsset": "",
+    "image": ""
+  },
+  {
+  "category": "Wärmezähler",
+  "keywords": [
+    "Wärmemengenzähler", "Wärmezähler", "anschluss", "installation", "Kabel", "Rechenwerk", "Verdrahtung", "Klemme", "Montage"
+  ],
+  "questions": [
+    "Wie schließe ich die Kabel im Rechenwerk an?",
+    "Wie werden die Kabel am Wärmezähler angeschlossen?",
+    "Wie funktioniert die Verkabelung beim Wärmemengenzähler?",
+    "Welche Kabel gehören an welche Klemme beim Wärmezähler?",
+    "Wie montiere ich die Kabel am Rechenwerk?",
+    "Was muss ich beim Anschluss der Kabel beachten?",
+    "Wie sieht der Anschlussplan für den Wärmezähler aus?",
+    "Wie erfolgt die Verdrahtung des Rechenwerks?",
+    "Wie werden die Temperatursensoren angeschlossen?",
+    "Welche Farbe hat welches Kabel am Wärmezähler?",
+    "Wie verbinde ich das Stromkabel mit dem Wärmezähler?",
+    "Wie installiere ich den Wärmemengenzähler?"
+  ],
+  "answer": "Der Anschluss ist unkompliziert: Das blaue Kabel gehört immer nach links, und zwar das KTZ an 3 & 4 sowie die Temperaturfühler an 6 & 7 und 10 & 11. Achte darauf, dass die Kabel korrekt und fest angeschlossen sind, um eine einwandfreie Funktion des Wärmezählers zu gewährleisten.",
+  "image": "assets/images/1213.jpg"
+}
+]
